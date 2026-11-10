@@ -64,13 +64,13 @@ Maintaining open-source privacy software takes continuous dedication. If this pr
 
 ### 🪙 آدرس‌های دریافت / Crypto Wallets (Trust Wallet)
 
-  `آدرس_کیف_پول_تتر_شبکه_ترون_را_اینجا_بگذار`
+  
 
 * **Toncoin (TON):UQCOQAOcSb1BPRr4f_tCod7KH8rl133P5QqUsSS3-YFojdhW
-  `آدرس_کیف_پول_تون_را_اینجا_بگذار`
+  
 
 * **Bitcoin (BTC):bc1qq7dynx5kdf6rxc938sny864jvmj8tl6vw4max0
-  `آدرس_کیف_پول_بیتکوین_را_اینجا_بگذار`
+  
 
 ---
 طراحی و مهندسی شده با ❤️ توسط **بنیامین**  
